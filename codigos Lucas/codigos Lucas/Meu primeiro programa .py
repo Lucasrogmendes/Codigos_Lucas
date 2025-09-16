@@ -1,0 +1,6 @@
+nome = input("Qual é o seu nome ? ")
+idade = input("Qual a sua Idade ? ")
+musica  = input("Qual sua musica favorita? ")
+print(nome)
+print(idade)
+print(musica)
